@@ -1,6 +1,6 @@
-# Title
+# Chat Bot
 
-Simple description
+This program allows you to interact with the bot and it will respond to you with a random response.
 
 ## Table of Contents
 
@@ -8,16 +8,16 @@ Simple description
 
 - [Install](#install)
 
+- [Usage](#usage)
+
 ## Background
 
-This is why this application exists.
+This program is used to get a random response to user input.
 
 ## Install
 
-These are the steps to setup your local environment to run this application
+All you need to do to run this program is to go to the ReplIt link: https://replit.com/@anasrahman/Chat-Bot-Elite-Qualifier#main.py and press run.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
-
-### Any optional sections
+Press run on the program and type an input into the console. The program will then respond to your input with a random response.
